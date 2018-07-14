@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://avatars2.githubusercontent.com/u/20473914?s=400&u=6fff38778e16750defef2ee08d60a38b0026ae45&v=4" style="width:100%" alt="Avatar">
+          <img src="https://media.licdn.com/dms/image/C5603AQH-QRBf-9ISeA/profile-displayphoto-shrink_200_200/0?e=1536796800&v=beta&t=A1uejNLc5y6pI3_6aLDkTip5xXuhgXAep2Wx_zKISEQ" class="w3-hover-grayscale" style="width:50%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
             <h2>Fortune King</h2>
           </div>
@@ -74,21 +74,44 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Systems Analyst/Full Stack Web Developer / Kropmann.com</b></h5>
+          <h4 class="w3-opacity"><b>Kropmann</b></h4>
+          <h5 class="w3-opacity"><b>Systems Analyst/Full Stack Web Developer</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2017 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <ul>
+          <li>Handling a $6 billion project at MTN Nigeria, using the GE&trade; Smallworld Network Inventory tool for network planning and inventory. </li>
+          <li>Created the kropmann website with useful Graphics and illustration to show what the company is about.</li>
+          <li>Managing Office365 tools like Sharepoint, Microsoft&trade; Teams, Flow, etc for Kropmann's Intranet.</li>
+          <li>I also manage a small group of Engineers in the company, based on trainings on the how to use the smallworld tool, and making sure they're keeping up with industry standards.</li>
+          </ul>
+          <h5 class="w3-opacity"><a href="http://kropmann.com" target="_blank">Visit Kropmann's website</a></h5>
+          <p></p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>IT support/Software Engineer / meadowhallgroup.com</b></h5>
+          <h4 class="w3-opacity"><b>Meadowhallgroup</b></h4>
+          <h5 class="w3-opacity"><b>IT support/Software Engineer @ meadowhallgroup.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2016 - May 2017</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <ul>
+            <li>I created an Event Management System, for the Group which can be used to book items and venues for events. it also has an in built flow sign-off, which makes it very ideal for things like requisition handoffs in organizations.</li>
+            <li>I was able to create the Inspirational Educators Awards website, which insights from my manager and also the inhouse graphics artist. The site is used for getting information of Inspirational teachers that have stood out from their peers during the course of the year. and also making sure that such motivated persons are not left out or forgotten.</li>
+            <li>I was also involved in working with the Meadowhall Foundation, a non profit subsidiary of the Meadowhall Group, reaching out to less priviledged children and making sure they get the best out of life.</li>
+            <li>I was actively involved in the network department, troubleshooting network issues, crimping cables, configuring routers, etc.</li>
+          </ul>
+          <h5 class="w3-opacity"><a href="http://meadowhallgroup.com" target="_blank">Visit Meadowhall Group's website</a></h5>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>East engineer/Customer support / ipnxnigeria.com</b></h5>
+          <h4 class="w3-opacity"><b>IPNX Nigeria</b></h4>
+          <h5 class="w3-opacity"><b>East engineer/Customer support</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2014 - Feb 2015</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <ul>
+            <li>I assisted clients with their network issues.</li>
+            <li>I configured Routers and outdoor radios for client side installation, and also went visiting the clients sometimes.</li>
+            <li>I learnt the basics of networking.</li>
+          </ul>
+          <h5 class="w3-opacity"><a href="http://ipnxnigeria.com" target="_blank">Visit IPNX website</a></h5>
+          <hr>
+          <br>
         </div>
       </div>
 
@@ -103,7 +126,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Federal University of Petroleum Resources Effurun</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2015</h6>
-          <p>Bachelors Degree</p>
+          <p>Bachelors Degree (B.Sc) in Computer Science</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -119,8 +142,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>INSpirational Educators Awards (INSEA)</b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: PHP </p>
-          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://inseawards.org/" target="blank">inseawards.org</a> </p>
-          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link 2: <a href="http://meadowhalllimited.org/inseawards.org/insea" target="blank">meadowhalllimited.org/inseawards.org/insea</a> </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://inseawards.org/" target="blank">INSEAwards</a> </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link 2: <a href="http://meadowhalllimited.org/inseawards.org/insea" target="blank">INSEA 2</a> </p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Pirate Search - <small>Worlds Number 1 Torrent Search Engine. An app that lets you search the popular piratebay without ads and ip blocking restrictons.</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: Javascript, Flask app, Bootstrap, HTML, CSS </p>
+          <p>Framework: Angular</p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://thepiratebay1.herokuapp.com/" target="blank">Pirate Search</a> </p>
           <hr>
         </div>
         <div class="w3-container">
@@ -128,13 +159,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Ruby </p>
           <p>Framework: Rails (Ruby on Rails)</p>
-          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://pinterestedd1.herokuapp.com/" target="blank">pinterestedd1.herokuapp.com</a> </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://pinterestedd1.herokuapp.com/" target="blank">Pinterested</a> </p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Github Search - <small>An app that displays list of Developers on Github with a powerful intuitive search</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: Javascript, HTML, CSS, Bootstrap </p>
+          <p>Framework: Angular</p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://githubsearchng.herokuapp.com/" target="blank">Github Search</a> </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Events - <small>An Events Management System</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
-          <p>Language: PHP </p>
+          <p>Language: PHP, HTML, CSS, Bootstrap </p>
           <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i>Link: </p>
           <br>
         </div>
@@ -152,10 +191,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
   <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-pink"></i>
+  <i class="fa fa-snapchat w3-hover-yellow"></i>
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-blue"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
   <p>All rights reserved <a href="#">Fortune King</a> &copy; Concepts. 2018</p>
 </footer>
