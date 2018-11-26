@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://media.licdn.com/dms/image/C5603AQH-QRBf-9ISeA/profile-displayphoto-shrink_200_200/0?e=1536796800&v=beta&t=A1uejNLc5y6pI3_6aLDkTip5xXuhgXAep2Wx_zKISEQ" class="w3-hover-grayscale" style="width:50%" alt="Avatar">
+          <img src="https://avatars0.githubusercontent.com/u/20473914?s=40&v=4" class="w3-hover-grayscale" style="width:50%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
             <h2>Fortune King</h2>
           </div>
