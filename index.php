@@ -116,28 +116,35 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
+        
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Education</h2>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>W3Schools.com & freecodecamp.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
           <p>Web Development! All I need to know in one place</p>
           <hr>
         </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Federal University of Petroleum Resources Effurun</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2015</h6>
           <p>Bachelors Degree (B.Sc) in Computer Science</p>
           <hr>
         </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Air force Military school</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2005 - 2011</h6>
           <p>O levels Degree</p><br>
         </div>
+        
       </div>
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
+        
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-globe fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Online Projects</h2>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>INSpirational Educators Awards (INSEA)</b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
@@ -146,6 +153,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link 2: <a href="http://meadowhalllimited.org/inseawards.org/insea" target="blank">INSEA 2</a> </p>
           <hr>
         </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Pirate Search - <small>Worlds Number 1 Torrent Search Engine. An app that lets you search the popular piratebay without ads and ip blocking restrictons.</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
@@ -154,6 +162,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://thepiratebay1.herokuapp.com/" target="blank">Pirate Search</a> </p>
           <hr>
         </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Chumi Home Gas App - <small>An adroid app for prdering gas cylinder refills wherever you are</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: Java / Android </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://play.google.com/store/apps/details?id=com.blogspot.chunkingz.eat_it2" target="blank">Get it on the Google play store!</a> </p>
+          <hr>
+        </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Pinterested - <small>A pinterest clone</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
@@ -162,6 +179,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://pinterestedd1.herokuapp.com/" target="blank">Pinterested</a> </p>
           <hr>
         </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Github Search - <small>An app that displays list of Developers on Github with a powerful intuitive search</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
@@ -170,13 +188,24 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://githubsearchng.herokuapp.com/" target="blank">Github Search</a> </p>
           <hr>
         </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Youtube links scraper - <small>python script for scraping youtube links from sites and storing the links in a file</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: Python </p>
+          <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/YoutubeLinks-Scraper" target="blank">Get it from Github</a> </p>
+          <hr>
+        </div>
+        
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Events - <small>An Events Management System</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: PHP, HTML, CSS, Bootstrap </p>
           <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i>Link: </p>
+          <hr>
           <br>
         </div>
+        
       </div>
 
     <!-- End Right Column -->
