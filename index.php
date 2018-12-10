@@ -146,20 +146,37 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-globe fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Online Projects</h2>
         
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>INSpirational Educators Awards (INSEA)</b></h5>
-          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
-          <p>Language: PHP </p>
-          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://inseawards.org/" target="blank">INSEAwards</a> </p>
-          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link 2: <a href="http://meadowhalllimited.org/inseawards.org/insea" target="blank">INSEA 2</a> </p>
-          <hr>
-        </div>
-        
-        <div class="w3-container">
           <h5 class="w3-opacity"><b>Pirate Search - <small>Worlds Number 1 Torrent Search Engine. An app that lets you search the popular piratebay without ads and ip blocking restrictons.</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Javascript, Flask app, Bootstrap, HTML, CSS </p>
           <p>Framework: Angular</p>
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://thepiratebay1.herokuapp.com/" target="blank">Pirate Search</a> </p>
+          <hr>
+        </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Node js/ Express js Apps - <small>These are apps I've built using node/express</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: Node/Express </p>
+          <p>Framework: Express.js</p>
+          <p>fieldGiphy - <small> an app that a user can visit to get gifs to tweet their emotions with </small>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/fieldGiphy" target="blank">Field Giphy</a>
+          </p>
+          <p>iReporter - <small> an app for reporting incidents in your locality e.g bad roads/corrupt govt officials </small>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/iReporter" target="blank">iReporter</a>
+          </p>
+          <p>Fast-Food-Fast - <small> place your order for food, and get it within minutes </small>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/Fast-Food-Fast" target="blank">fast food fast</a>
+          </p>
+          <hr>
+        </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>INSpirational Educators Awards (INSEA)</b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p>Language: PHP </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://inseawards.org/" target="blank">INSEAwards</a> </p>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link 2: <a href="http://meadowhalllimited.org/inseawards.org/insea" target="blank">INSEA 2</a> </p>
           <hr>
         </div>
         
