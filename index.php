@@ -38,21 +38,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Web development</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">95%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:95%">95%</div>
           </div>
           <p>Software Development</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
-              <div class="w3-center w3-text-white">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">
+              <div class="w3-center w3-text-white">90%</div>
             </div>
           </div>
           <p>Networking</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
           <p>Ethical hacking</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
           </div>
           <br>
 
@@ -160,8 +160,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Javascript(ES6) Node/Express </p>
           <p>Framework: Express</p>
-          <p>Property Pro Lite - <small> a platform where people can create and/or search properties for sale or rent. </small>
-            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Github Repo: <a href="https://github.com/chunkingz/Property-Pro-Lite" target="blank">Property-Pro-Lite Repo</a>
+          <p>Property Pro Lite - <small> a platform where people can create and/or search properties for sale or rent. </small> <br>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Github Repo: <a href="https://github.com/chunkingz/Property-Pro-Lite" target="blank">Property-Pro-Lite Repo</a><br>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Website Link: <a href="https://chunkingz.github.io/Property-Pro-Lite/" target="blank">Property-Pro-Lite Website</a>
           </p>
           <p>fieldGiphy - <small> an app that a user can visit to get gifs to tweet their emotions with </small>
