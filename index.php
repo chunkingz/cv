@@ -164,13 +164,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Github Repo: <a href="https://github.com/chunkingz/Property-Pro-Lite" target="blank">Property-Pro-Lite Repo</a><br>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Website Link: <a href="https://chunkingz.github.io/Property-Pro-Lite/" target="blank">Property-Pro-Lite Website</a>
           </p>
-          <p>fieldGiphy - <small> an app that a user can visit to get gifs to tweet their emotions with </small>
+          <p>fieldGiphy - <small> an app that a user can visit to get gifs to tweet their emotions with </small> <br>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/fieldGiphy" target="blank">Field Giphy</a>
           </p>
-          <p>iReporter - <small> an app for reporting incidents in your locality e.g bad roads/corrupt govt officials </small>
+          <p>iReporter - <small> an app for reporting incidents in your locality e.g bad roads/corrupt govt officials </small> <br>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/iReporter" target="blank">iReporter</a>
           </p>
-          <p>Fast-Food-Fast - <small> place your order for food, and get it within minutes </small>
+          <p>Fast-Food-Fast - <small> place your order for food, and get it within minutes </small> <br>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/Fast-Food-Fast" target="blank">fast food fast</a>
           </p>
           <hr>
