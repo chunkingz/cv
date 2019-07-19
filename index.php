@@ -78,10 +78,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>Systems Analyst/Full Stack Web Developer</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2017 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <ul>
-          <li>Handling a $6 billion project at MTN Nigeria, using the GE&trade; Smallworld Network Inventory tool for network planning and inventory. </li>
-          <li>Created the kropmann website with useful Graphics and illustration to show what the company is about.</li>
-          <li>Managing Office365 tools like Sharepoint, Microsoft&trade; Teams, Flow, etc for Kropmann's Intranet.</li>
-          <li>I also manage a small group of Engineers in the company, based on trainings on the how to use the smallworld tool, and making sure they're keeping up with industry standards.</li>
+            <li>Creating internal tools for the company such as a leave management system</li>
+            <li>Handling a $6 billion project at MTN Nigeria, using the GE&trade; Smallworld Network Inventory tool for network planning and inventory. </li>
+            <li>Created the kropmann website with useful Graphics and illustration to show what the company is about.</li>
+            <li>Managing Office365 tools like Sharepoint, Microsoft&trade; Teams, Flow, etc for Kropmann's Intranet.</li>
+            <li>I also manage a small group of Engineers in the company, based on trainings on the how to use the smallworld tool, and making sure they're keeping up with industry standards.</li>
           </ul>
           <h5 class="w3-opacity"><a href="http://kropmann.com" target="_blank">Visit Kropmann's website</a></h5>
           <p></p>
@@ -157,8 +158,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Node js/ Express js Apps - <small>These are apps I've built using node/express</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
-          <p>Language: Node/Express </p>
-          <p>Framework: Express.js</p>
+          <p>Language: Javascript(ES6) Node/Express </p>
+          <p>Framework: Express</p>
+          <p>Property Pro Lite - <small> a platform where people can create and/or search properties for sale or rent. </small>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Github Repo: <a href="https://github.com/chunkingz/Property-Pro-Lite" target="blank">Property-Pro-Lite Repo</a>
+            <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Website Link: <a href="https://chunkingz.github.io/Property-Pro-Lite/" target="blank">Property-Pro-Lite Website</a>
+          </p>
           <p>fieldGiphy - <small> an app that a user can visit to get gifs to tweet their emotions with </small>
             <i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/fieldGiphy" target="blank">Field Giphy</a>
           </p>
