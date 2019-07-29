@@ -147,7 +147,28 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-globe fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Online Projects</h2>
         
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Pirate Search - <small>Worlds Number 1 Torrent Search Engine. An app that lets you search the popular piratebay without ads and ip blocking restrictons.</small></b></h5>
+          <h5 class="w3-opacity"><b>Bolt Hunters - <small>A HR company website.</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://bolthunters.com/" target="blank">Bolt Hunters</a> </p>
+          <hr>
+        </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Kropmann - <small>ICT Company website.</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://kropmann.com/" target="blank">Kropmann</a> </p>
+          <hr>
+        </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Telligentengineering - <small>ICT/Engineering Company website.</small></b></h5>
+          <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
+          <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="http://telligentengineering.com/" target="blank">Telligentengineering</a> </p>
+          <hr>
+        </div>
+        
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>The Pirate Bay - <small>Worlds Number 1 Torrent Search Engine. An app that lets you search the popular piratebay without ads and ip blocking restrictons.</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Javascript, Flask app, Bootstrap, HTML, CSS </p>
           <p>Framework: Angular</p>
@@ -207,6 +228,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Javascript, HTML, CSS, Bootstrap </p>
           <p>Framework: Angular</p>
+          <p>Version Control: Git</p>
+          <p>Project management: Pivotal Tracker</p>
+          <p>Build tools/Continuous integration: Travis CI</p>
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://githubsearchng.herokuapp.com/" target="blank">Github Search</a> </p>
           <hr>
         </div>
@@ -215,15 +239,39 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>Youtube links scraper - <small>python script for scraping youtube links from sites and storing the links in a file</small></b></h5>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
           <p>Language: Python </p>
+          <p>Version Control: Git</p>
           <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i>Link: <a href="https://github.com/chunkingz/YoutubeLinks-Scraper" target="blank">Get it from Github</a> </p>
           <hr>
         </div>
         
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Events - <small>An Events Management System</small></b></h5>
+          <h4 class="w3-opacity"><b>Company Internal Tools</b></h4>
+          <h5 class="w3-opacity"><b>Meadow Hall Group Events - <small>A tool for managing Events and Resource Booking within the Group (CorePHP)</small></b></h5>
+          <h5 class="w3-opacity"><b>Kropmann Leave Management System - <small>A tool for handling Staff Vacation</small></b></h5>
+          <p>Language: PHP, HTML, CSS, Bootstrap, Javascript (ES6>), Sweet Alert 2 </p>
+          <p>Version Control: Git</p>
+          <p>Project management: Pivotal Tracker</p>
+          <p>Build tools/Continuous integration: Travis CI</p>
+          <p style="color:red;">Internal tools (no external link)</p>
+          <hr>
+          <br>
+        </div>
+        
+        <div class="w3-container">
+          <h4 class="w3-opacity"><b>Linux Security Tools</b></h4>
           <h6 class="w3-text-pink"><i class="fa fa-globe fa-fw w3-margin-right"></i></h6>
-          <p>Language: PHP, HTML, CSS, Bootstrap </p>
-          <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i>Link: </p>
+          <p>
+            <b>Linset v2.0 - wpa/wpa2 audit tool for Linux (evil twin)</b> 
+            <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i> <br>
+              Link: <a href="https://github.com/chunkingz/linsetmv1-2" target="blank">Check it out on Github</a> 
+            </p>
+            <b>VMR-MDK-K2 - wps audit tool for Linux (wps enabled routers)</b> 
+            <p><i class="fa fa-link w3-text-blue fa-fw w3-margin-right"></i> <br>
+              Link: <a href="https://github.com/chunkingz/VMR-MDK-K2-2017R-012x4" target="blank">Check it out on Github</a> 
+            </p>
+          </p>
+          <p>Language: Bash(Shell), C, PHP, HTML </p>
+          <p>Version Control: Git</p>
           <hr>
           <br>
         </div>
