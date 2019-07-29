@@ -173,6 +173,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Language: Javascript, Flask app, Bootstrap, HTML, CSS </p>
           <p>Framework: Angular</p>
           <p><i class="fa fa-link fa-fw w3-text-blue w3-margin-right"></i>Link: <a href="https://thepiratebay1.herokuapp.com/" target="blank">Pirate Search</a> </p>
+          <p>Version Control: Git</p>
+          <p>Project management: Pivotal Tracker</p>
+          <p>Build tools/Continuous integration: Travis CI</p>
           <hr>
         </div>
         
