@@ -298,8 +298,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-blue"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>All rights reserved <a href="#">Fortune King</a> &copy; Concepts. 2018</p>
+  <p>All rights reserved <a href="#">Fortune King</a> &copy; Concepts. <span id="year"></span></p>
 </footer>
 
 </body>
 </html>
+
+<script>
+  const yearString = new Date().getFullYear();
+  document.getElementById("year").innerHTML = yearString;
+</script>
