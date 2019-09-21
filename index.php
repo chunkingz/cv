@@ -74,9 +74,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-pink"></i>Work Experience</h2>
         <div class="w3-container">
           <h4 class="w3-opacity"><b>Kropmann | MTN Nigeria</b></h4>
-          <h5 class="w3-opacity"><b>Systems Analyst/Full Stack Web Developer</b></h5>
+          <h5 class="w3-opacity"><b>Enterprise Support Engineer</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2017 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <ul>
+            <li>Traveled to the democratic Republic of Congo to install and support astTecs IP PBX Phones and servers for VFS call center</li>
             <li>Creating internal tools for the company such as a leave management system</li>
             <li>Handling a $6 billion project at MTN Nigeria, using the GE&trade; Smallworld Network Inventory tool for network planning and inventory. </li>
             <li>Created the kropmann website with useful Graphics and illustration to show what the company is about.</li>
